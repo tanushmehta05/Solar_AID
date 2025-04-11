@@ -1,0 +1,6 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 6
+names: ['Bird-drop', 'Clean', 'Dusty', 'Electrical-damage', 'Physical-damage', 'Snow']
